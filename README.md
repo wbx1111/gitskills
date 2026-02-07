@@ -1,2 +1,2 @@
-# my-learning-project
+# gitskills
 for study
